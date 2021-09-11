@@ -1,1 +1,1 @@
-# chennaiinstituteoftechnology.github..io
+# chennaiinstituteoftechnology.github.io
